@@ -20,13 +20,6 @@
       "tech": "Sam Smith",
       "date": "2020-12-08T21:53:25.474Z",
       "id": 3
-    },
-    {
-      "message": "c",
-      "attention": false,
-      "tech": "Sara Wilson",
-      "date": "2020-12-08T21:53:32.398Z",
-      "id": 4
     }
   ],
   "techs": [
@@ -49,6 +42,16 @@
       "firstName": "Phil",
       "lastName": "Huynh",
       "id": 4
+    },
+    {
+      "firstName": "greg",
+      "lastName": "ass",
+      "id": 5
+    },
+    {
+      "firstName": "as",
+      "lastName": "as",
+      "id": 6
     }
   ]
 }
